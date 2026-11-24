@@ -4,6 +4,7 @@ expediente: "MPF00474350"
 original_filename: "MPF00474350_Art._199,_d).-_L_2303_Archivo_de_la_denuncia_y_actuaciones_de_prevención__Falta_de_prueba_sobre_la_materialidad_del_hecho._Disposición_1602261511.pdf"
 fecha_creacion_pdf: "2020-10-09T13:38:31-03"
 origen_email: "fuentes/emails/fiscalias.gob.ar/notifica-mpf-474350-pami.e0376.eml"
+firma_digital: "JUAN ERNESTO ROZAS Oct 09 2020 13:38:32; firma: Signature is Valid.; certificado: Certificate has Expired"
 ---
 
 MPF CABA
